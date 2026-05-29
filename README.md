@@ -19,7 +19,7 @@ forward method on your subclass**
 to monitor, classify, and predict behaviors of animals in the sanctuary.
 References:
 
-PyTorch Dataset and Dataloader   https://pytorch.org/tutorials/beginner/basics/data_tutorial.html\\。
+PyTorch Dataset and Dataloader   https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
 
 
 Seaborn Heatmaps    https://seaborn.pydata.org/generated/seaborn.heatmap.html .
