@@ -15,7 +15,10 @@ forward method on your subclass**
 
 # Threat Classification for AtliQ Wildlife Reserve
 
-**Welcome to the AtliQ Wildlife Reserve, a sanctuary where technology helps preserve wildlife. You are tasked with developing AI systems to monitor, classify, and predict behaviors of animals in the sanctuary.
+**Welcome to the AtliQ Wildlife Reserve, a sanctuary where technology helps preserve wildlife. You are tasked with developing AI systems 
+to monitor, classify, and predict behaviors of animals in the sanctuary.
+
+
 References:
 PyTorch Dataset and Dataloader link
 Seaborn Heatmaps link**
