@@ -12,3 +12,8 @@ architecture**
 
 **3.Calling model(train_data) will internally call
 forward method on your subclass**
+
+# Datasets and DataLoaders
+# CostFunction: Binary Cross Entropy
+# CostFunction:CategoricalCross
+
