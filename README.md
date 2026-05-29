@@ -17,11 +17,13 @@ forward method on your subclass**
 
 **Welcome to the AtliQ Wildlife Reserve, a sanctuary where technology helps preserve wildlife. You are tasked with developing AI systems 
 to monitor, classify, and predict behaviors of animals in the sanctuary.
-
-
 References:
-PyTorch Dataset and Dataloader link
-Seaborn Heatmaps link**
+
+PyTorch Dataset and Dataloader   https://pytorch.org/tutorials/beginner/basics/data_tutorial.html\\。
+
+
+Seaborn Heatmaps    https://seaborn.pydata.org/generated/seaborn.heatmap.html .
+
 
 # Handwritten Digits Classification Using Multilayer Perceptron
 
